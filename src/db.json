@@ -29,7 +29,7 @@
         {
             "id":2,
             "title":"If-else trong Java",
-            "description":"Giới thiệu về tính đóng gói và đưa ví dụ",
+            "description":"Giới thiệu về If-else và đưa ví dụ",
             "content":"Tính đóng gói trong java là kỹ thuật ẩn giấu thông tin không liên quan và hiện thị ra thông liên quan. Mục đích chính của đóng gói trong java là giảm thiểu mức độ phức tạp phát triển phần mềm.\nĐóng gói cũng được sử dụng để bảo vệ trạng thái bên trong của một đối tượng. Bởi việc ẩn giấu các biến biểu diễn trạng thái của đối tượng. Việc chỉnh sửa đối tượng được thực hiện, xác nhận thông qua các phương thức. Hơn nữa, việc ẩn giấu các biến thì các lớp sẽ không chia sẻ thông tin với nhau được. Điều này làm giảm số lượng khớp nối có thể có trong một ứng dụng.",
             "date":"29/10/2020",
             "cateId":"1"
@@ -37,55 +37,55 @@
         {
             "id":3,
             "title":"Tính kế thừa trong Java",
-            "description":"Giới thiệu về tính đóng gói và đưa ví dụ",
+            "description":"Giới thiệu về tính kế thừa và đưa ví dụ",
             "content":"Tính đóng gói trong java là kỹ thuật ẩn giấu thông tin không liên quan và hiện thị ra thông liên quan. Mục đích chính của đóng gói trong java là giảm thiểu mức độ phức tạp phát triển phần mềm.\nĐóng gói cũng được sử dụng để bảo vệ trạng thái bên trong của một đối tượng. Bởi việc ẩn giấu các biến biểu diễn trạng thái của đối tượng. Việc chỉnh sửa đối tượng được thực hiện, xác nhận thông qua các phương thức. Hơn nữa, việc ẩn giấu các biến thì các lớp sẽ không chia sẻ thông tin với nhau được. Điều này làm giảm số lượng khớp nối có thể có trong một ứng dụng.",
             "date":"29/11/2020",
             "cateId":"1"
         },
         {
             "id":4,
-            "title":"Tính đóng gói trong Java",
-            "description":"Giới thiệu về tính đóng gói và đưa ví dụ",
+            "title":"Sate và Props",
+            "description":"Định nghĩa, phân biệt và ví dụ",
             "content":"Tính đóng gói trong java là kỹ thuật ẩn giấu thông tin không liên quan và hiện thị ra thông liên quan. Mục đích chính của đóng gói trong java là giảm thiểu mức độ phức tạp phát triển phần mềm.\nĐóng gói cũng được sử dụng để bảo vệ trạng thái bên trong của một đối tượng. Bởi việc ẩn giấu các biến biểu diễn trạng thái của đối tượng. Việc chỉnh sửa đối tượng được thực hiện, xác nhận thông qua các phương thức. Hơn nữa, việc ẩn giấu các biến thì các lớp sẽ không chia sẻ thông tin với nhau được. Điều này làm giảm số lượng khớp nối có thể có trong một ứng dụng.",
             "date":"9/11/2020",
             "cateId":"2"
         },
         {
             "id":5,
-            "title":"đóng gói trong Java",
-            "description":"Giới thiệu về tính đóng gói và đưa ví dụ",
+            "title":"Redux",
+            "description":"Giới thiệu về Redux và đưa ví dụ",
             "content":"Tính đóng gói trong java là kỹ thuật ẩn giấu thông tin không liên quan và hiện thị ra thông liên quan. Mục đích chính của đóng gói trong java là giảm thiểu mức độ phức tạp phát triển phần mềm.\nĐóng gói cũng được sử dụng để bảo vệ trạng thái bên trong của một đối tượng. Bởi việc ẩn giấu các biến biểu diễn trạng thái của đối tượng. Việc chỉnh sửa đối tượng được thực hiện, xác nhận thông qua các phương thức. Hơn nữa, việc ẩn giấu các biến thì các lớp sẽ không chia sẻ thông tin với nhau được. Điều này làm giảm số lượng khớp nối có thể có trong một ứng dụng.",
             "date":"2/12/2020",
             "cateId":"2"
         },
         {
             "id":6,
-            "title":"Tính đóng gói trong Java",
-            "description":"Giới thiệu về tính đóng gói và đưa ví dụ",
+            "title":"Roter trong Reactjs",
+            "description":"Giới thiệu về router",
             "content":"Tính đóng gói trong java là kỹ thuật ẩn giấu thông tin không liên quan và hiện thị ra thông liên quan. Mục đích chính của đóng gói trong java là giảm thiểu mức độ phức tạp phát triển phần mềm.\nĐóng gói cũng được sử dụng để bảo vệ trạng thái bên trong của một đối tượng. Bởi việc ẩn giấu các biến biểu diễn trạng thái của đối tượng. Việc chỉnh sửa đối tượng được thực hiện, xác nhận thông qua các phương thức. Hơn nữa, việc ẩn giấu các biến thì các lớp sẽ không chia sẻ thông tin với nhau được. Điều này làm giảm số lượng khớp nối có thể có trong một ứng dụng.",
             "date":"1/12/2020",
             "cateId":"2"
         },
         {
             "id":7,
-            "title":"Tính đóng gói trong Java",
-            "description":"Giới thiệu về tính đóng gói và đưa ví dụ",
+            "title":"Các món nhậu được yêu thích",
+            "description":"Tên và cách nấu các món nhậu",
             "content":"Tính đóng gói trong java là kỹ thuật ẩn giấu thông tin không liên quan và hiện thị ra thông liên quan. Mục đích chính của đóng gói trong java là giảm thiểu mức độ phức tạp phát triển phần mềm.\nĐóng gói cũng được sử dụng để bảo vệ trạng thái bên trong của một đối tượng. Bởi việc ẩn giấu các biến biểu diễn trạng thái của đối tượng. Việc chỉnh sửa đối tượng được thực hiện, xác nhận thông qua các phương thức. Hơn nữa, việc ẩn giấu các biến thì các lớp sẽ không chia sẻ thông tin với nhau được. Điều này làm giảm số lượng khớp nối có thể có trong một ứng dụng.",
             "date":"9/9/2020",
             "cateId":"3"
         },
         {
             "id":8,
-            "title":"Tính đóng gói trong Java",
-            "description":"Giới thiệu về tính đóng gói và đưa ví dụ",
+            "title":"Lợi ích của nước lọc",
+            "description":"Như tên tiêu đề click chi tiết để biết thêm",
             "content":"Tính đóng gói trong java là kỹ thuật ẩn giấu thông tin không liên quan và hiện thị ra thông liên quan. Mục đích chính của đóng gói trong java là giảm thiểu mức độ phức tạp phát triển phần mềm.\nĐóng gói cũng được sử dụng để bảo vệ trạng thái bên trong của một đối tượng. Bởi việc ẩn giấu các biến biểu diễn trạng thái của đối tượng. Việc chỉnh sửa đối tượng được thực hiện, xác nhận thông qua các phương thức. Hơn nữa, việc ẩn giấu các biến thì các lớp sẽ không chia sẻ thông tin với nhau được. Điều này làm giảm số lượng khớp nối có thể có trong một ứng dụng.",
             "date":"20/9/2020",
             "cateId":"3"
         },
         {
             "id":9,
-            "title":"Tính đóng gói trong Java",
-            "description":"Giới thiệu về tính đóng gói và đưa ví dụ",
+            "title":"Rượu bia có hại cho sức khỏe?",
+            "description":"Rượu bia có thật sự ảnh hưởng tới sức khỏe",
             "content":"Tính đóng gói trong java là kỹ thuật ẩn giấu thông tin không liên quan và hiện thị ra thông liên quan. Mục đích chính của đóng gói trong java là giảm thiểu mức độ phức tạp phát triển phần mềm.\nĐóng gói cũng được sử dụng để bảo vệ trạng thái bên trong của một đối tượng. Bởi việc ẩn giấu các biến biểu diễn trạng thái của đối tượng. Việc chỉnh sửa đối tượng được thực hiện, xác nhận thông qua các phương thức. Hơn nữa, việc ẩn giấu các biến thì các lớp sẽ không chia sẻ thông tin với nhau được. Điều này làm giảm số lượng khớp nối có thể có trong một ứng dụng.",
             "date":"8/9/2020",
             "cateId":"3"
@@ -109,7 +109,7 @@
         {
             "id":12,
             "title":"Nắm bắt tâm lý con gái",
-            "description":"Giới thiệu về tính đóng gói và đưa ví dụ",
+            "description":"Như cái tên tiêu đề",
             "content":"1.1 Phụ nữ là một ngôn ngữ mà đàn ông không bao giờ hiểu được\n Phụ nữ theo nhiều lời nhận xét từ phía đàn ông được xem như là ” loài sinh vật khó hiểu” nhất trần gian. Bởi vì bản tính phụ nữ rất phức tạp. Cánh đàn ông phải biết nắm bắt được suy nghĩ và hiểu được những điều mà phụ nữ muốn. Mặc cho phụ nữ không bao giờ thể hiện ra bên ngoài. Và cánh mày râu luôn cảm thấy thật khó khăn với vấn đề này. Chính vì vậy, để học được nghệ thuật nắm bắt tâm lý phụ nữ thì đàn ông phải có sự tinh tế và chịu khó trò chuyện. Đồng thời hãy để ý đến sắc mặt cô ấy để có thể biết được cô ấy đang suy nghĩ gì nhé!\n 1.2 Phụ nữ và mua sắm không thể tách rời – Nghệ thuật nắm bắt tâm lý phụ nữ\n Chắc chắn đây là điều ai ai cũng biết. Phụ nữ và đam mê mua sắm luôn không thể tách rời nhau. Phụ nữ có thể tìm ra 10 lý do để không mua sắm. Nhưng họ hoàn toàn có thể dễ dàng tìm ra 100 điều để phản biện lại chúng. Và như một điều hiển nhiên, họ luôn mua sắm những thứ không có trong danh sách. Nếu đã học được nghệ thuật nắm bắt tâm lý phụ nữ, hãy nắm tay người phụ nữ của bạn thật chặt khi đi mua sắm nhé!",
             "date":"19/9/2020",
             "cateId":"4"
